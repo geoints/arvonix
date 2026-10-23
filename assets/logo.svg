@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none"><defs><linearGradient id="a" x1="16" y1="12" x2="82" y2="88" gradientUnits="userSpaceOnUse"><stop stop-color="#fff"/><stop offset=".58" stop-color="#CBD5E1"/><stop offset="1" stop-color="#60A5FA"/></linearGradient></defs><path d="M50 7 92 84H75L50 38 25 84H8L50 7Z" fill="url(#a)"/><path d="M36 61h28l8 14H28l8-14Z" fill="#2563EB"/><path d="M50 7 59 24 50 41 41 24 50 7Z" fill="#0B0F14" opacity=".8"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" fill="none">
+  <defs>
+    <linearGradient id="steel" x1="64" y1="45" x2="166" y2="210" gradientUnits="userSpaceOnUse"><stop stop-color="#F8FAFC"/><stop offset=".5" stop-color="#CBD5E1"/><stop offset="1" stop-color="#64748B"/></linearGradient>
+    <linearGradient id="blue" x1="154" y1="82" x2="242" y2="221" gradientUnits="userSpaceOnUse"><stop stop-color="#DBEAFE"/><stop offset=".25" stop-color="#3B82F6"/><stop offset=".72" stop-color="#0759D9"/><stop offset="1" stop-color="#60A5FA"/></linearGradient>
+  </defs>
+  <path d="M36 224 111 82h51l-74 142H36Z" fill="url(#steel)"/>
+  <path d="M111 82h51l75 142h-51L111 82Z" fill="url(#blue)"/>
+  <path d="m126 224 39-74 25 47-14 27h-50Z" fill="#0B0F14" opacity=".96"/>
+  <path d="m165 150 14-27 52 101h-26l-40-74Z" fill="#2563EB" opacity=".65"/>
+</svg>
